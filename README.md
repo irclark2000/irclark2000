@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Clark
-- 👀 I’m interest in programming of microcontroller
--  🌱 I’m currently learning to programm NXP microcontrollers
+- 👀 I’m interest in programming microcontrollers
+-  🌱 I’m currently learning to program NXP RT microcontrollers
 - 💞️ I’m looking to collaborate on PCB Design for STM32 and NXP i.MX RT processors
 - 📫 You can reach me though my github page.
 
